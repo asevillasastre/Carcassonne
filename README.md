@@ -6,7 +6,7 @@
 - Other related projects can be found [here](https://github.com/asevillasastre/Carcassonne/tree/main/other-carcassonne-projects).
 
 ### Roadpam
-I'm working on adding an interface and punctuation rules.
+I'm working on adding an interface and punctuation rules. In the future it would be great to work with AI on this.
 
 ### Author
 Antonio Sevilla Sastre
