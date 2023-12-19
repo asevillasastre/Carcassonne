@@ -11,4 +11,4 @@ You can check [my other projects](https://github.com/asevillasastre?tab=reposito
 
 -----------------------------------------------------------------------------
 
-![alt text](https://github.com/asevillasastre/Carcassonne/blob/main/images/basic-playing-interface-19-12-23?raw=true)
+![alt text](https://github.com/asevillasastre/Carcassonne/blob/main/images/basic-playing-interface-19-12-23.png?raw=true)
