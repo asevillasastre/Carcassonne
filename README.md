@@ -1,4 +1,4 @@
-# Carcassonne playable version and other Carcassonne projects
+# Carcassonne Playable Version and Other Carcassonne Projects
 
 ### Content
 - I'm intended to develop a playable version of Carcassonne with a simple interface in Python. You can find the last version of it [here](https://github.com/asevillasastre/Carcassonne/blob/main/carcassonne-last-version.ipynb).
